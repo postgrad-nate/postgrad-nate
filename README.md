@@ -1,4 +1,4 @@
-👋 Hi, I’m @postgrad-nate, a microbiologist undertaking a BBSRC funded Chemistry PhD. 
+👋 Hi, I’m @postgrad-nate, a microbiologist undertaking a BBSRC funded Chemistry PhD at Imperial College London. 
 
 🧪 🧫 🔬 My work involves:
 - Bioinformatics (to discover peptide-forming enzymes of interest)
